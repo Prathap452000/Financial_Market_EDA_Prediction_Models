@@ -24,7 +24,7 @@ Long Short-Term Memory (LSTM), a type of recurrent neural network (RNN), for cap
 Gated Recurrent Units (GRU), an alternative to LSTM, for efficient time-series forecasting.
 
 📊 Data Source
-The stock price data for Tesla is obtained from publicly available sources such as Yahoo Finance. Additional financial market indicators may also be incorporated to enhance the predictive power of the model.
+The stock price data for Tesla is obtained from publicly available data from Kaggle. Additional financial market indicators may also be incorporated to enhance the predictive power of the model.
 
 🛠️ Technical Stack
 Programming Language
